@@ -1,0 +1,18 @@
+[{
+    "item": "FirstName",
+    "label": "First Name",
+    "required": true
+},
+{
+    "item": "LastName",
+    "label": "Last Name",
+    "required": true
+},{
+    "item": "Position",
+    "label": "Position",
+    "required": false
+},{
+    "item": "Tenure",
+    "label": "Tenure",
+    "required": true
+}]

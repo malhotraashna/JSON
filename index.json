@@ -1,18 +1,14 @@
 [{
     "item": "FirstName",
-    "label": "First Name",
-    "required": true
+    "label": "First Name"
 },
 {
     "item": "LastName",
-    "label": "Last Name",
-    "required": true
+    "label": "Last Name"
 },{
     "item": "Position",
-    "label": "Position",
-    "required": false
+    "label": "Position"
 },{
     "item": "Tenure",
-    "label": "Tenure",
-    "required": true
+    "label": "Tenure"
 }]
